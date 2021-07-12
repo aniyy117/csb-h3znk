@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "https://aniyy117.github.io/csb-h3znk/static/css/main.cced0ffc.chunk.css",
-    "main.js": "https://aniyy117.github.io/csb-h3znk/static/js/main.611e0a8d.chunk.js",
-    "main.js.map": "https://aniyy117.github.io/csb-h3znk/static/js/main.611e0a8d.chunk.js.map",
+    "main.css": "https://aniyy117.github.io/csb-h3znk/static/css/main.e01bc0d3.chunk.css",
+    "main.js": "https://aniyy117.github.io/csb-h3znk/static/js/main.958125dc.chunk.js",
+    "main.js.map": "https://aniyy117.github.io/csb-h3znk/static/js/main.958125dc.chunk.js.map",
     "runtime-main.js": "https://aniyy117.github.io/csb-h3znk/static/js/runtime-main.e224b516.js",
     "runtime-main.js.map": "https://aniyy117.github.io/csb-h3znk/static/js/runtime-main.e224b516.js.map",
     "static/js/2.a7332253.chunk.js": "https://aniyy117.github.io/csb-h3znk/static/js/2.a7332253.chunk.js",
     "static/js/2.a7332253.chunk.js.map": "https://aniyy117.github.io/csb-h3znk/static/js/2.a7332253.chunk.js.map",
     "index.html": "https://aniyy117.github.io/csb-h3znk/index.html",
-    "static/css/main.cced0ffc.chunk.css.map": "https://aniyy117.github.io/csb-h3znk/static/css/main.cced0ffc.chunk.css.map",
+    "static/css/main.e01bc0d3.chunk.css.map": "https://aniyy117.github.io/csb-h3znk/static/css/main.e01bc0d3.chunk.css.map",
     "static/js/2.a7332253.chunk.js.LICENSE.txt": "https://aniyy117.github.io/csb-h3znk/static/js/2.a7332253.chunk.js.LICENSE.txt",
     "static/media/10x.98bb66e9.png": "https://aniyy117.github.io/csb-h3znk/static/media/10x.98bb66e9.png",
     "static/media/Customer.82cebd3f.svg": "https://aniyy117.github.io/csb-h3znk/static/media/Customer.82cebd3f.svg",
@@ -18,6 +18,7 @@
     "static/media/Need.7684e23a.svg": "https://aniyy117.github.io/csb-h3znk/static/media/Need.7684e23a.svg",
     "static/media/Rewards.19fa1800.png": "https://aniyy117.github.io/csb-h3znk/static/media/Rewards.19fa1800.png",
     "static/media/StockPe.984847b6.png": "https://aniyy117.github.io/csb-h3znk/static/media/StockPe.984847b6.png",
+    "static/media/Tournament design.e2dce95d.png": "https://aniyy117.github.io/csb-h3znk/static/media/Tournament design.e2dce95d.png",
     "static/media/Tournament.27de0503.png": "https://aniyy117.github.io/csb-h3znk/static/media/Tournament.27de0503.png",
     "static/media/Withdraw.cf164444.png": "https://aniyy117.github.io/csb-h3znk/static/media/Withdraw.cf164444.png",
     "static/media/implement.fea00ab7.png": "https://aniyy117.github.io/csb-h3znk/static/media/implement.fea00ab7.png",
@@ -27,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.e224b516.js",
     "static/js/2.a7332253.chunk.js",
-    "static/css/main.cced0ffc.chunk.css",
-    "static/js/main.611e0a8d.chunk.js"
+    "static/css/main.e01bc0d3.chunk.css",
+    "static/js/main.958125dc.chunk.js"
   ]
 }
